@@ -1,0 +1,6 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.2\Zadanie_kol_act_view\Zadanie_kol_act_view\bin\Debug\Zadanie_kol_act_view.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.2\Zadanie_kol_act_view\Zadanie_kol_act_view\bin\Debug\Zadanie_kol_act_view.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.2\Zadanie_kol_act_view\Zadanie_kol_act_view\obj\Debug\Zadanie_kol_act_view.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.2\Zadanie_kol_act_view\Zadanie_kol_act_view\obj\Debug\Zadanie_kol_act_view.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.2\Zadanie_kol_act_view\Zadanie_kol_act_view\obj\Debug\Zadanie_kol_act_view.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.2\Zadanie_kol_act_view\Zadanie_kol_act_view\obj\Debug\Zadanie_kol_act_view.pdb

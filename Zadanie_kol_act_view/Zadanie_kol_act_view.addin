@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\Zadanie_kol_act_view.dll"</Assembly>		
+		<AddInId>26EA8DCB-DFE2-482E-A1C3-F2FD5BCD7D27</AddInId>		
+		<FullClassName>Zadanie_kol_act_view.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Задание 2.2</Text>
+	</AddIn>
+</RevitAddIns>
